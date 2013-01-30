@@ -1,4 +1,4 @@
 cenacle
 =======
 
-bunch of financial component
+프로그램의 연습
